@@ -68,6 +68,8 @@ namespace SetupTool
             textBox_displayName.Text = "";
             textBox_packageName.Text = "";
             this.Close();
+
+
         }
     }
 }
